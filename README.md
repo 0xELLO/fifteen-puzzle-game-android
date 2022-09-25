@@ -1,4 +1,4 @@
-# Fifteen puzzle game for andoid
+# Fifteen puzzle game for android
 
 Written in kotlin, ui in XML
 
