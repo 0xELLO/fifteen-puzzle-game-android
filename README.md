@@ -9,8 +9,8 @@ by sliding them horizontally or vertically, respectively.
 The goal of the puzzle is to place the tiles in numerical order. [(wiki)](https://en.wikipedia.org/wiki/15_puzzle)
 
 # Screenshots
-![Tux, the Linux mascot](/screenshots/)
-![Tux, the Linux mascot](/screenshots/)
+![portain screenshot](/screenshots/Screenshot_20220925_170346.png)
+![landscpe screenshot](/screenshots/Screenshot_20220925_170346.png)
 
 # Features
 
